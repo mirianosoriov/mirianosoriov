@@ -3,11 +3,15 @@
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
 
 
+- ✨ I study at the National University of San Agustín
+- 😄 You can contact me by: mosoriov@unsa.edu.pe
+
 <!--
 **mirianosoriov/mirianosoriov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ✨ I study at the National University of San Agustín
+- 😄 You can contact me by: mosoriov@unsa.edu.pe
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
