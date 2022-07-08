@@ -1,6 +1,7 @@
 ### Hi, I'm Mirian 👋
+<div id='header' align='center'>
+  img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='200'/>
 
-https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif
 
 <!--
 **mirianosoriov/mirianosoriov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
