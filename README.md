@@ -2,7 +2,6 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
 
-<!-- 
 ### About me: 
 · ✨ I study at the National University of San Agustín
 · 😄 You can contact me by: mosoriov@unsa.edu.pe
