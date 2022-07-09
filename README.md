@@ -29,7 +29,7 @@ _
 </br>
 ### This profile is for all this, to invite you to immerse yourself in my work with me and let's learn together. 💫
 <div id='header' align='center'>
-  <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
+  <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='400'/>
 
 ### We start in...
 
