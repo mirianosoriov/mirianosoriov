@@ -36,7 +36,7 @@
 
 [![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)]
 (https://www.spyder-ide.org/)
-  
+</br>  
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
