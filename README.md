@@ -23,7 +23,6 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
 
-</br>
 ### We start in...
 </br>
 [![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]
