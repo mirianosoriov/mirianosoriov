@@ -1,17 +1,17 @@
 # Hi, I'm Mirian Osorio! ✨
 
-<div align="center">
-  <a href="https://github.com/mirianosoriov">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=mirianosoriov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianosoriov&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
 
 ### This is my personal space, I will be posting my works and practices of experience with Python, works in Jupyter Notebook and Spider. 📌
 
 ## Get to know a little about me:
 ### My full name is Mirian Lucero Osorio Valencia, I am a Telecommunications Engineering student, I am also studying Industrial Electronics, and I am very passionate about doing free research on everything related to Programming. 📚👩‍🏫💕 
 
+<div align="center">
+  <a href="https://github.com/mirianosoriov">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mirianosoriov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianosoriov&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 ### You can contact me by: mosoriov@unsa.edu.pe. 🖇
 
 <div id='header' align='center'>
