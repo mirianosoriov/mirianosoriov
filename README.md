@@ -12,7 +12,7 @@
  
 ## Other ways to contact me:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mirian_Osorio-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UC1WDCd-PpCVMOb6L2C_jPlA.)
+[![YouTube](https://img.shields.io/badge/YouTube-Mirian_Osorio-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UC1WDCd-PpCVMOb6L2C_jPlA)
 [![Twitter](https://img.shields.io/badge/Twitter-@Mirian_Osorio-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/MirianO09280759?t=9wWcaGYAt4gm_jD_FA5Fug&s=09)
 [![Instagram](https://img.shields.io/badge/Instagram-@mirian_osorio_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/mirian_osorio_/)
 [![Facebook](https://img.shields.io/badge/Facebook-@Mirian.Osorio-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/mirianlucero.osoriovalencia.1)
