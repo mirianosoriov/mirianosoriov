@@ -4,16 +4,6 @@
 ## Get to know a little about me:
 ### My full name is Mirian Lucero Osorio Valencia, I am a Telecommunications Engineering student, I am also studying Industrial Electronics, and I am very passionate about doing free research on everything related to Programming. 📚👩‍🏫💕 
 
-</br>
-[![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
-[![LINUX](https://img.shields.io/badge/lINUX-232F3E?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)]()
-
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
-
-[![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)]()
-</br>
-
 ### You can contact me by: mosoriov@unsa.edu.pe. 🖇
 
 <div id='header' align='center'>
@@ -33,7 +23,18 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</br>
+### We start in...
+[![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
+[![LINUX](https://img.shields.io/badge/lINUX-232F3E?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)]()
+
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
+
+[![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)]()
+</br>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
   
