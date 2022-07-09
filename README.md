@@ -1,7 +1,7 @@
 ### Hi, I'm Mirian 👋
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
-  <img src='<atugy-e8sqi.png'/>
+  <img src='https://s4.aconvert.com/convert/p3r68-cdx67/atugy-e8sqi.png' width='500'/>
   
 ### About me: 
 - ✨ I study at the National University of San Agustín
