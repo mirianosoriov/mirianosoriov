@@ -26,13 +26,17 @@
 </br>
 ### We start in...
 </br>
-[![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]
+(https://www.python.org/)
 </br>
-[![LINUX](https://img.shields.io/badge/lINUX-232F3E?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)](https://www.linux.org/)
+[![LINUX](https://img.shields.io/badge/lINUX-232F3E?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)]
+(https://www.linux.org/)
 </br>
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)](https://jupyter.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]
+(https://jupyter.org/)
 </br>
-[![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)](https://www.spyder-ide.org/)
+[![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)]
+(https://www.spyder-ide.org/)
 </br>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
