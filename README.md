@@ -1,4 +1,4 @@
-### Hi, I'm Mirian Osorio 👋!
+# Hi, I'm Mirian Osorio 👋!
 ### This is my personal space, I will be posting my works and practices of experience with Python, works in Jupyter Notebook and Spider.
 
 ## Get to know a little about me:
