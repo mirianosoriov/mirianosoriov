@@ -9,6 +9,13 @@
 - ✨ I study at the National University of San Agustín
 - 😄 You can contact me by: mosoriov@unsa.edu.pe
 
+  
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:  
 jobs:
   build:
     name: Jobs to update datas
