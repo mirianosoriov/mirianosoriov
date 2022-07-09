@@ -1,7 +1,8 @@
 ### Hi, I'm Mirian 👋
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
-  <img src='<a href="https://ibb.co/GkNQ6Rs"><img src="https://i.ibb.co/82tgC9z/Colorida-Patr-n-y-Formas-Abstractos-Saludos-de-Mejores-Amigos-Presentaci-n-Divertida-1.png" alt="Colorida-Patr-n-y-Formas-Abstractos-Saludos-de-Mejores-Amigos-Presentaci-n-Divertida-1" border="0"></a>' width='500'/>
+  <img src='<atugy-e8sqi.png'/>
+  
 ### About me: 
 - ✨ I study at the National University of San Agustín
 - 😄 You can contact me by: mosoriov@unsa.edu.pe
