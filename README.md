@@ -2,8 +2,8 @@
 ### This is my personal space, I will be posting my works and practices of experience with Python, works in Jupyter Notebook and Spider.
 
 ## Get to know a little about me:
-### My full name is Mirian Lucero Osorio Valencia, I am a Telecommunications Engineering student, I am also studying Industrial Electronics, and I am very passionate about doing free research on everything related to Programming.
-### You can contact me by: mosoriov@unsa.edu.pe 😄 
+### My full name is Mirian Lucero Osorio Valencia, I am a Telecommunications Engineering student, I am also studying Industrial Electronics, and I am very passionate about doing free research on everything related to Programming. 😄 
+### You can contact me by: mosoriov@unsa.edu.pe.
 
 <div id='header' align='center'>
   <img src='https://s4.aconvert.com/convert/p3r68-cdx67/atugy-e8sqi.png' width='900'/>
