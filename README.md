@@ -11,9 +11,9 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=mirianosoriov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianosoriov&layout=compact&langs_count=7&theme=dracula"/>
    
-### ____________________________________________________________________________________________________________________________________________   
+### ____________________________________________________________________ 
 ## 📩 You can contact me by: mosoriov@unsa.edu.pe. 🖇
-### ____________________________________________________________________________________________________________________________________________  
+### ____________________________________________________________________  
 <div id='header' align='center'>
   <img src='https://s4.aconvert.com/convert/p3r68-cdx67/atugy-e8sqi.png' width='900'/>
   
@@ -33,13 +33,13 @@
 
 ### We start in...
 
-[![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]
+![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
   
-[![LINUX](https://img.shields.io/badge/lINUX-232F3E?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)]
+![LINUX](https://img.shields.io/badge/lINUX-232F3E?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)
   
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)
   
-[![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)]
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-IDE&logoColor=white&labelColor=101010)
 </br>  
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
