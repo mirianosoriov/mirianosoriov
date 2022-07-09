@@ -13,7 +13,7 @@
    
 ### ____________________________________________________________________ 
 ## 📩 You can contact me by: mosoriov@unsa.edu.pe. 🖇
-### ____________________________________________________________________  
+_  
 <div id='header' align='center'>
   <img src='https://s4.aconvert.com/convert/p3r68-cdx67/atugy-e8sqi.png' width='900'/>
   
