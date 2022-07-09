@@ -1,4 +1,10 @@
-### Hi, I'm Mirian 👋
+### Hi, I'm Mirian Osorio 👋
+### This is my personal space, I will be posting my works and practices of experience with Python, works in Jupyter Notebook and Spider.
+
+## Get to know a little about me:
+### My full name is Mirian Lucero Osorio Valencia, I am a Telecommunications Engineering student, I am also studying Industrial Electronics, and I am very passionate about doing free research on everything related to Programming.
+
+
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
   
