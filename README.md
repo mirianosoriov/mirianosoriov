@@ -1,4 +1,12 @@
 # Hi, I'm Mirian Osorio! ✨
+
+<div align="center">
+  <a href="https://github.com/mirianosoriov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirianosoriov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianosoriov&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+
 ### This is my personal space, I will be posting my works and practices of experience with Python, works in Jupyter Notebook and Spider. 📌
 
 ## Get to know a little about me:
