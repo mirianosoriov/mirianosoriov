@@ -22,6 +22,8 @@
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/idSEtVpsq0zpzKIhW1/giphy.gif' width='500'/>
 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **mirianosoriov/mirianosoriov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
