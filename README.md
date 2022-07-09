@@ -33,8 +33,8 @@
 
 ### We start in...
 
-![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-(https://www.python.org/) 
+[![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+(https://www.python.org/)]
 ![LINUX](https://img.shields.io/badge/lINUX-232F3E?style=for-the-badge&logo=LINUX&logoColor=white&labelColor=101010)
   
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F7DF1E?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)
