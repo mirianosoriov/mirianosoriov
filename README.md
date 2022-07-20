@@ -15,7 +15,7 @@
 ## 📩 You can contact me by: mosoriov@unsa.edu.pe. 🖇
 _  
 <div id='header' align='center'>
-  <img src='https://s4.aconvert.com/convert/p3r68-cdx67/atugy-e8sqi.png' width='900'/>
+  <img src='https://s4.aconvert.com/convert/p3r68-cdx67/aecw3-g3qhk.webp' width='900'/>
   
 
  
