@@ -42,8 +42,7 @@ _
 </div>
    
 
-  
-  
+   
 <!--
 **mirianosoriov/mirianosoriov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Python](https://img.shields.io/badge/python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]
