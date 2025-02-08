@@ -1,10 +1,17 @@
 # Hi, I'm Mirian Osorio! ✨
 
-
-### This is my personal space, I will be posting my works and practices of experience with Python, works in Jupyter Notebook and Spider. 📌
+### Welcome to my personal space! Here, I share my projects, practices, and explorations in the world of **Data Analysis** and **Data Science**. You'll find my work with Python, Jupyter Notebook, and other tools I use to analyze and visualize data. 📊📌
 
 ## Get to know a little about me:
-### My full name is Mirian Lucero Osorio Valencia, I am a Telecommunications Engineering student, I am also studying Industrial Electronics, and I am very passionate about doing free research on everything related to Programming. 📚👩‍🏫💕 
+### My full name is Mirian Lucero Osorio Valencia. I am currently studying **Industrial Engineering** and **Accounting**, and I am deeply passionate about **Data Science** and **Data Analysis**. I love exploring how data can transform decision-making and drive innovation in various industries. 📚👩‍💻💡
+
+### My journey has led me to focus on:
+- **Data Analysis**: Extracting insights from raw data to solve real-world problems.
+- **Data Visualization**: Creating compelling visual stories with tools like Matplotlib, Seaborn, and Tableau.
+- **Machine Learning**: Building predictive models to uncover patterns and trends.
+- **Programming**: Using Python, SQL, and other tools to manipulate and analyze data.
+
+### Let's connect and explore the fascinating world of data together! 🚀📚💕 
 
 <div align="center">
   <a href="https://github.com/mirianosoriov">
