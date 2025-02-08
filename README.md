@@ -27,7 +27,7 @@
 </br>  
 
 ### Other ways to contact me:
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirian_Osorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mirian-osorio-valencia/)
 [![YouTube](https://img.shields.io/badge/YouTube-Mirian_Osorio-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UC1WDCd-PpCVMOb6L2C_jPlA)
 [![Twitter](https://img.shields.io/badge/Twitter-@Mirian_Osorio-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/MirianO09280759?t=9wWcaGYAt4gm_jD_FA5Fug&s=09)
 [![Instagram](https://img.shields.io/badge/Instagram-@mirian_osorio_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/mirian_osorio_/)
